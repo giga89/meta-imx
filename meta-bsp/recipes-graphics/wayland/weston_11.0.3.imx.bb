@@ -164,7 +164,7 @@ SRC_URI:prepend = "${WESTON_SRC};branch=${SRCBRANCH} "
 WESTON_SRC ?= "git://github.com/nxp-imx/weston-imx.git;protocol=https"
 SRC_URI += "file://0001-Revert-protocol-no-found-wayland-scanner-with-Yocto-.patch"
 SRCBRANCH = "weston-imx-11.0.3"
-SRCREV = "ba6a8a02ea0fb3e0563c525a6ca99c45fefc27d4"
+SRCREV = "db08995cd61b28cdb98fb461d5a007391c364b8b"
 S = "${WORKDIR}/git"
 
 PACKAGECONFIG_IMX_REMOVALS ?= "wayland x11"
