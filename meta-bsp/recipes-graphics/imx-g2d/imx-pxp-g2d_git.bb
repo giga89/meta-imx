@@ -4,7 +4,7 @@
 
 DESCRIPTION = "G2D library using i.MX PXP"
 LICENSE = "Proprietary"
-LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=44a8052c384584ba09077e85a3d1654f"
+LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=ca53281cc0caa7e320d4945a896fb837"
 
 PROVIDES += "virtual/libg2d"
 
