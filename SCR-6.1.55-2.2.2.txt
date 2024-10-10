@@ -492,7 +492,7 @@ Origin:                      NXP (Apache-2.0)
 
 Package:                     plug-and-trust.git
 Version:                     v04.04.00
-Outgoing License:            Apache-2.0 
+Outgoing License:            BSD-3-Clause 
 License File:                LICENSE.txt
 Package Category:            BSP
 Type of Content:             source
@@ -788,7 +788,7 @@ Origin:                      NXP (LA_OPT_NXP_Software_License)
 
 Package:                     imx-dpu-g2d-2.1.10.2-39731e1.bin
 Version:                     2.1.10.2
-Outgoing License:            LA_OPT_NXP_Software_License v48 July 2023 Additional distribution license granted - Section 2.3 applies
+Outgoing License:            LA_OPT_NXP_Software_License v57 July 2024 Additional distribution license granted - Section 2.3 applies
 License File:                COPYING
 Package Category:            Graphics
 Type of Content:             binary
@@ -800,7 +800,7 @@ Origin:                      NXP (LA_OPT_NXP_Software_License)
 
 Package:                     imx-g2d-pxp.git
 Version:                     2.1.0
-Outgoing License:            LA_OPT_NXP_Software_License v53 December 2023 Additional distribution license granted - Section 2.3 applies
+Outgoing License:            LA_OPT_NXP_Software_License v57 July 2024 Additional distribution license granted - Section 2.3 applies
 License File:                LICENSE.txt
 Package Category:            Graphics
 Type of Content:             source
@@ -824,7 +824,7 @@ Origin:                      NXP (BSD-3-Clause)
 
 Package:                     libgpuperfcnt-6.4.11.p2.2.2-aarch64-wayland-e4ba456.bin
 Version:                     6.4.11.p2.2.2
-Outgoing License:            LA_OPT_NXP_Software_License v57 July 2024 Additional distribution license granted - Section 2.3 applies
+Outgoing License:            LA_OPT_NXP_Software_License v53 December 2023 Additional distribution license granted - Section 2.3 applies
 License File:                COPYING
 Package Category:            Graphics
 Type of Content:             binary
@@ -836,7 +836,7 @@ Origin:                      NXP (LA_OPT_NXP_Software_License)
 
 Package:                     libgpuperfcnt-6.4.11.p2.2.2-arm-fb-e4ba456.bin
 Version:                     6.4.11.p2.2.2
-Outgoing License:            LA_OPT_NXP_Software_License v57 July 2024 Additional distribution license granted - Section 2.3 applies
+Outgoing License:            LA_OPT_NXP_Software_License v53 December 2023 Additional distribution license granted - Section 2.3 applies
 License File:                COPYING
 Package Category:            Graphics
 Type of Content:             binary
@@ -848,7 +848,7 @@ Origin:                      NXP (LA_OPT_NXP_Software_License)
 
 Package:                     libgpuperfcnt-6.4.11.p2.2.2-arm-wayland-e4ba456.bin
 Version:                     6.4.11.p2.2.2
-Outgoing License:            LA_OPT_NXP_Software_License v57 July 2024 Additional distribution license granted - Section 2.3 applies
+Outgoing License:            LA_OPT_NXP_Software_License v53 December 2023 Additional distribution license granted - Section 2.3 applies
 License File:                COPYING
 Package Category:            Graphics
 Type of Content:             binary
